@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/0371/5685/files/About-header_72b8af0a-5098-4c60-bca7-9a81365b1d31.png?527");
+    background-repeat: repeat;
+    background-repeat: repeat;
+}
+
+.head1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(96, 183, 241);
+    font-family: 'Arial', Condensed, Bold;
+}
+.head2 {
+    display: flex;
+    padding-left: 20px;
+    padding-right: 30px;
+    background-color: rgb(243, 125, 86);
+    font-family: 'Arial', Condensed, Bold;
+}
+img.one {
+    display: flex;
+    height: 250px;
+    width: auto;
+    margin-left: auto;
+    font-family: 'Arial', Condensed, Bold;
+}
+.examples {
+    font-family: 'Arial', Condensed, Bold;
+}
